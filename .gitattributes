@@ -1,7 +1,7 @@
-*.csharp linguist-detectable=false
-*.java linguist-detectable=false
-*.js linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
-*.cpp linguist-detectable=false
-*.dart linguist-detectable=true
+*.css   text eol=lf
+*.dart  text eol=lf
+*.html  text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+*.yaml  text eol=lf
+*.sh    text eol=lf
